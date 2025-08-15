@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
-http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:0A:24:91&stream=1867474&extension=m3u8&play_token=
+http://alpha-2ott.me/play/live.php?mac=00:1B:79:0A:24:91&stream=1867474&extension=m3u8&play_token=
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=100000
-http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:0A:24:91&stream=1867474&extension=m3u8&play_token=
+http://alpha-2ott.me/play/live.php?mac=00:1B:79:0A:24:91&stream=1867474&extension=m3u8&play_token=
